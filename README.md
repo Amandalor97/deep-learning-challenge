@@ -14,6 +14,13 @@ Binary success rate (Yes/No). We looked at the column 'IS _SUCCESSFUL', 1 is suc
 
 <ins>- What variable(s) are the features for your model?<ins>
 
+The variables which are the features for our model are: APPLICATION_TYPE, AFFILIATION, CLASSIFICATION,	USE_CASE, ORGANIZATION,	STATUS,	INCOME_AMT, SPECIAL_CONSIDERATIONS, and ASK_AMT. 
+They can be found in the application_df. 
+
+![FEATURES](https://github.com/user-attachments/assets/7b249b62-9453-4d50-8397-c88ffbabb46d)
+
+
+
 <ins>- What variable(s) should be removed from the input data because they are neither targets nor features?<ins>
   
 
