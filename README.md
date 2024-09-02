@@ -9,6 +9,9 @@ Goal: Create a binary classifier that can predict whether applicants will be suc
 
 Binary success rate (Yes/No). We looked at the column 'IS _SUCCESSFUL', 1 is successful, 0 is unsuccessful. 
 
+![IS_SUCCESSFUL](https://github.com/user-attachments/assets/c0046000-c12d-4196-a5c2-d244b7c98780)
+
+
 <ins>- What variable(s) are the features for your model?<ins>
 
 <ins>- What variable(s) should be removed from the input data because they are neither targets nor features?<ins>
