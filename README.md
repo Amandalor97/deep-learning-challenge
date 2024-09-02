@@ -33,11 +33,12 @@ NAME and EIN should be removed.
 
 ![LAYERS](https://github.com/user-attachments/assets/4f9962ec-c196-4a36-9d9d-c06789c99e29)
 
-I have made way more than three attempts at optimizing my model but no matter what I changed the accuracy stayed about the same. Here on this image, you can see how I left it. 
-I have tried to use only two layers with 64 neurons each and 17 epochs. I have lowered and increased the amount of neurons and epochs but nothing changed. 
-I decided to add one layer with a different activation function 'tanh' but it did not improve the accuracy.
-Eventually I left it at 3 layers with 32, 100 and 50 neurons as well as 30 epochs. The accuracy is about 72%.
-Increasing and decreasing neurons and epochs are deifnitely not effective, we might as well have less neurons and epochs which would consume less power.
+
+After conducting an exhaustive series of experiments to optimize my model, I've reached a plateau where the accuracy consistently hovers around 72%, regardless of the changes I've made. The attached image illustrates the final configuration I've settled on, which consists of three layers with 32, 100, and 50 neurons, respectively, and 30 epochs.
+In my pursuit of enhancing the model, I've explored various permutations, including reducing the layers to two with 64 neurons each and 17 epochs. I've also experimented with varying the number of neurons and epochs, yet none of these alterations have led to notable improvements.
+Additionally, I've explored the use of different activation functions, such as 'tanh', but this too has failed to boost accuracy.
+Given the lack of correlation between the number of neurons and epochs with accuracy, it's likely that using fewer neurons and epochs could be a more efficient approach, as it would consume less computational power without sacrificing performance.
+This implies that additional factors may be influencing the model's stagnation, and further investigation is needed to identify the root causes and uncover opportunities for improvement.
 
 
 <ins>- Were you able to achieve the target model performance?<ins>
