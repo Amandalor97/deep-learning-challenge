@@ -22,6 +22,8 @@ They can be found in the application_df.
 
 
 <ins>- What variable(s) should be removed from the input data because they are neither targets nor features?<ins>
+
+NAME and EIN should be removed. 
   
 
 # COMPILING, TRAINING, AND EVALUATING THE MODEL
