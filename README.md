@@ -5,20 +5,20 @@ Goal: Create a binary classifier that can predict whether applicants will be suc
 
 # DATA PREPROCESSING: 
 
-- What variable(s) are the target(s) for your model?
+<ins>- What variable(s) are the target(s) for your model?<ins>
 
-- What variable(s) are the features for your model?
+<ins>- What variable(s) are the features for your model?<ins>
 
-- What variable(s) should be removed from the input data because they are neither targets nor features?
+<ins>- What variable(s) should be removed from the input data because they are neither targets nor features?<ins>
   
 
 # COMPILING, TRAINING, AND EVALUATING THE MODEL
 
-- How many neurons, layers, and activation functions did you select for your neural network model, and why?
+<ins>- How many neurons, layers, and activation functions did you select for your neural network model, and why?<ins>
 
-- Were you able to achieve the target model performance?
+<ins>- Were you able to achieve the target model performance?<ins>
 
-- What steps did you take in your attempts to increase model performance?
+<ins>- What steps did you take in your attempts to increase model performance?<ins>
 
 
 # SUMMARY:
