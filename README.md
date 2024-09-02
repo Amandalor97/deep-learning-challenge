@@ -48,3 +48,10 @@ I was not able to achieve the target performance.
 
 # SUMMARY:
 
+Despite extensive experimentation with hyperparameter tuning strategies, such as adjusting neuron numbers, epochs, and adding hidden layers, the model's accuracy has leveled off at approximately 72%.
+These modifications have not produced significant enhancements.
+To surpass this accuracy barrier, I suggest exploring alternative methods.
+One potential strategy is to further feature engineer the dataset by dropping redundant or irrelevant columns, which may be contributing to the model's stagnation.
+Additionally, creating additional bins for infrequent occurrences in specific columns could enhance the capture of underlying data patterns. These actions may reveal new insights to refine the model's predictions and elevate accuracy levels.
+
+
