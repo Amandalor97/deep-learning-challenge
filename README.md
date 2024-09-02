@@ -29,6 +29,7 @@ NAME and EIN should be removed.
 # COMPILING, TRAINING, AND EVALUATING THE MODEL
 
 <ins>- How many neurons, layers, and activation functions did you select for your neural network model, and why?<ins>
+
 <ins>- What steps did you take in your attempts to increase model performance?<ins>
 
 ![LAYERS](https://github.com/user-attachments/assets/4f9962ec-c196-4a36-9d9d-c06789c99e29)
@@ -41,7 +42,8 @@ Increasing and decreasing neurons and epochs are deifnitely not effective, we mi
 
 
 <ins>- Were you able to achieve the target model performance?<ins>
-I was not able to achieve tghe target performance. 
+
+I was not able to achieve the target performance. 
 
 
 
