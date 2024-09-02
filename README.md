@@ -30,7 +30,6 @@ NAME and EIN should be removed.
 
 <ins>- How many neurons, layers, and activation functions did you select for your neural network model, and why? & What steps did you take in your attempts to increase model performance? <ins>
 
-What steps did you take in your attempts to increase model performance?
 
 ![LAYERS](https://github.com/user-attachments/assets/4f9962ec-c196-4a36-9d9d-c06789c99e29)
 
